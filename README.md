@@ -1,5 +1,5 @@
 # goofy-study
-극락공부
+극락의 모든 것을 정리한다.
 
 ### TODO
 - [spring mvc java todo](https://github.com/DongGeon0908/basic-todo)
