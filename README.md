@@ -27,9 +27,13 @@
 - [Kotlin 학습-1](https://github.com/DongGeon0908/kotlin-in-action)
 - [Kotlin 학습-2](https://github.com/DongGeon0908/kotlin-basic)
 
+### DB
+- [DB 기초 학습](https://github.com/DongGeon0908/DataBase)
+
 ### Algorithm
 - [코딩테스트 연습](https://github.com/DongGeon0908/MySecretCodingTest)
 - [백준 문제풀이](https://github.com/DongGeon0908/BAEKJOON)
+- [자료구조와 알고리즘](https://github.com/DongGeon0908/Data-Structure-And-Algorithm)
 
 ### Test
 - [인프라 테스트를 해보자](https://github.com/DongGeon0908/infra-test)
@@ -40,17 +44,25 @@
 
 ### Etc
 - [토픽 리스트](https://github.com/DongGeon0908/topic-warehouse)
+- [도커 학습](https://github.com/DongGeon0908/Docker-Container)
+- [리눅스 공부](https://github.com/DongGeon0908/Linux)
 
 ### Personal Project
 - [Short Url](https://github.com/DongGeon0908/goofy-short-url)
 - [Goofy Client Starter](https://github.com/DongGeon0908/goofy-client-starter)
+- [SE 주차장](https://github.com/DongGeon0908/java-parking-system)
+- [데이터 분석 - 학군에 따른 오락 및 재정자립도 관계성](https://github.com/DongGeon0908/Data-Analysis-Report)
+- [간단 패킷 트레이서](https://github.com/DongGeon0908/PacketTracer)
+- [체크섬](https://github.com/DongGeon0908/CheckSum)
+- [챗봇 시스템](https://github.com/DongGeon0908/Hanshin_AI_CHATBOT)
+- [POS 서비스](https://github.com/DongGeon0908/SwingProject)
 
 ### Team Project
 - [DPM-11-antoon-api](https://github.com/depromeet/antoon-api)
 - [DPM-12-toks-api](https://github.com/depromeet/toks-api)
 - [oing](https://github.com/o-ing)
 - [극락페이](https://github.com/Heaven-Pay)
-- [SE 주차장](https://github.com/DongGeon0908/java-parking-system)
+- [한이음 웹 컴파일러](https://github.com/DongGeon0908/Building-a-coding-test-site-using-WEB-IDE)
 
 ### Team
 - [SE.LAB](https://github.com/selab-hs)
