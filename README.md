@@ -3,7 +3,8 @@
 
 ### TODO
 - [spring mvc java todo](https://github.com/DongGeon0908/basic-todo)
-- [spring mvc kotlin todo](https://github.com/DongGeon0908/kotlin-todo)
+- [spring mvc kotlin old todo](https://github.com/DongGeon0908/kotlin-todo)
+- [spring mvc kotlin new todo](https://github.com/DongGeon0908/kotlin-todo-mvc)
 - [spring webflux kotlin todo](https://github.com/DongGeon0908/kotlin-todo-webflux)
 
 ### Spring
