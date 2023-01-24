@@ -29,6 +29,7 @@
 - [쓰레드 프로그래밍](https://github.com/DongGeon0908/thread)
 - [Kotlin 학습-1](https://github.com/DongGeon0908/kotlin-in-action)
 - [Kotlin 학습-2](https://github.com/DongGeon0908/kotlin-basic)
+- [자바 학습](https://github.com/DongGeon0908/Java)
 
 ### DB
 - [DB 기초 학습](https://github.com/DongGeon0908/DataBase)
