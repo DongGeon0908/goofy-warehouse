@@ -62,6 +62,7 @@
 - [체크섬](https://github.com/DongGeon0908/CheckSum)
 - [챗봇 시스템](https://github.com/DongGeon0908/Hanshin_AI_CHATBOT)
 - [POS 서비스](https://github.com/DongGeon0908/SwingProject)
+- [쓰레기통](https://github.com/DongGeon0908/CleanGarbage)
 
 ### Team Project
 - [DPM-11-antoon-api](https://github.com/depromeet/antoon-api)
