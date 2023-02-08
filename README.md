@@ -1,5 +1,45 @@
-# goofy-study
-극락의 모든 것을 정리한다.
+# 나락의 대명사 극락코딩
+> 공부하면서 내가 다시 보기 위해 한땀 한땀 정리
+
+### Spring
+
+### Java
+
+### Mysql
+
+### Kotlin
+
+### GIT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+<br>
+<br>
+<br>
 
 ### TODO
 - [spring mvc java todo](https://github.com/DongGeon0908/basic-todo)
