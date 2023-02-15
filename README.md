@@ -1,4 +1,5 @@
 # 나락의 대명사 극락코딩
+
 > 공부하면서 내가 다시 보기 위해 한땀 한땀 정리
 
 ### Spring
@@ -11,14 +12,13 @@
 
 - [Cache Aside Pattern이란?]()
 
-### Java
+### Java and Kotlin
+
+- [현재 애플리케이션에 존재하는 스레드 정보 조회](./java_and_kotlin/common/현재_애플리케이션에_존재하는_스레드_정보_조회.md)
 
 
 ### Data
 - [OLTP AND OLAP](./data/oltp_and_olap.md)
-
-
-### Kotlin
 
 
 ### GIT
