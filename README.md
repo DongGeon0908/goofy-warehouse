@@ -4,13 +4,9 @@
 
 ### Spring
 
-- [API Test를 위한 TestRestTemplate]()
-- [BootStrap이란?]()
 - [스프링 스케줄러 사용법](./spring/스프링_스케줄러_사용법.md)
+- [Feature Flag 간단 사용](./spring/Feature_Flag_간단_사용.md)
 
-### Cache
-
-- [Cache Aside Pattern이란?]()
 
 ### Java and Kotlin
 
