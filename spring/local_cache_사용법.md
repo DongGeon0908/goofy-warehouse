@@ -13,7 +13,7 @@
 - 데이터 정합성이 중요한 경우, 로컬 캐시는 부적절함
 - 팟이 여러개 띄워진 상황에서 로컬캐시에 대한 cache evict을 어떻게 수행하지? -> 별도의 중간 관리체계가 필요함
 
-###  
+###    
 
 ### 사용법
 
@@ -35,6 +35,7 @@ implementation("javax.cache:cache-api:${DependencyVersion.JAVA_CACHE_API_VERSION
 Local cache를 등록할 데이터에 대한 설정을 진행한다. 어떤 타입인지, expired 시간을 어떻게 설정한 것인지 등에 대한 정보를 기입한다.
 
 ```xml
+
 <config
         xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
         xmlns='http://www.ehcache.org/v3'
@@ -50,6 +51,15 @@ http://www.ehcache.org/v3/jsr107 http://www.ehcache.org/schema/ehcache-107-ext-3
         <expiry>
             <ttl unit="minutes">60</ttl>
         </expiry>
+        <listeners>
+            <listener>
+                <class>com.goofy.localcache.config.EhCacheEventLogger</class>
+                <event-firing-mode>ASYNCHRONOUS</event-firing-mode>
+                <event-ordering-mode>UNORDERED</event-ordering-mode>
+                <events-to-fire-on>CREATED</events-to-fire-on>
+                <events-to-fire-on>EXPIRED</events-to-fire-on>
+            </listener>
+        </listeners>
         <heap>2</heap>
     </cache-template>
 
@@ -113,7 +123,6 @@ class TestCacheService(
         key = "#id"
     )
     fun getTest(id: Long): String? {
-        logger.info { "get Test id : $id" }
         return testRepository.findById(id)
     }
 }
@@ -121,7 +130,34 @@ class TestCacheService(
 
 로컬 캐시를 등록하면, 현재 캐시가 없는 경우에는 캐시가 등록되고, 그 이후부터는 캐시 정보를 읽어서 진행한다.
 
+<br>
 
+**cache관련 작업이 수행된 경우 event를 발행하여 logging을 찍음**
+> 기존의 xml에 event listener 추기
+
+```xml
+<listeners>
+    <listener>
+        <class>com.goofy.localcache.config.EhCacheEventLogger</class>
+        <event-firing-mode>ASYNCHRONOUS</event-firing-mode>
+        <event-ordering-mode>UNORDERED</event-ordering-mode>
+        <events-to-fire-on>CREATED</events-to-fire-on>
+        <events-to-fire-on>EXPIRED</events-to-fire-on>
+    </listener>
+</listeners>
+```
+
+위의 내용을 xml에 추가한 이후, eventListener를 추가로 생성해야 함
+
+```kotlin
+class EhCacheEventLogger : CacheEventListener<String, Any> {
+    private val logger = KotlinLogging.logger {}
+
+    override fun onEvent(cacheEvent: CacheEvent<out String, out Any>) {
+        logger.info { "cache event logger key : ${cacheEvent.key} / oldValue : ${cacheEvent.oldValue} / newValue : ${cacheEvent.newValue}" }
+    }
+}
+```
 
 ### 관련자료
 
