@@ -12,6 +12,7 @@
 ### Java and Kotlin
 
 - [현재 애플리케이션에 존재하는 스레드 정보 조회](./java_and_kotlin/common/현재_애플리케이션에_존재하는_스레드_정보_조회.md)
+- [ThreadLocal이란](./java_and_kotlin/common/ThreadLocal이란.md)
 
 
 ### Data
