@@ -2,6 +2,8 @@
 
 > 공부하면서 내가 다시 보기 위해 한땀 한땀 정리
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongGeon0908%2Fgoofy-warehouse&count_bg=%23D9BCB8&title_bg=%23C2B0B0&icon=&icon_color=%23E7E7E7&title=Today%2FAll&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### Spring
 
 - [스프링 스케줄러 사용법](./spring/스프링_스케줄러_사용법.md)
