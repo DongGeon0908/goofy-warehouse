@@ -122,3 +122,7 @@ Kafka Burrow와 같은 클라이언트 라이브러리를 통해서 카프카의
 - 메세지 브로커 역할을 할 수 있다.
 - 이벤트 브로커는 메세지 브로커와 달리 이벤트를 바로 삭제하지 않고, 내부 큐에서 관리하여 사용할 수 있음
 - 카프카, 키네시스 등
+
+### Reference
+- [kafka docs](https://kafka.apache.org/documentation/)
+- [데브영 유튜브](https://www.youtube.com/@DevWonYoung)
