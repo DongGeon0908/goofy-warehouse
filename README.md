@@ -21,6 +21,9 @@
 
 - [Redis PUB SUB 정리](./redis/Redis_PUB_SUB.md)
 
+### Kafka
+- [kafka basic start](./kafka/kafka_basic.md)
+
 
 ### Data
 
