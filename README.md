@@ -18,6 +18,7 @@
 - [동작 파라미터화란?](./java_and_kotlin/common/동작_파라미터화란.md)
 - [파일 입출력을 쉽게](./java_and_kotlin/kotlin/파일_입출력을_쉽게.md)
 - [람다표현식이란](./java_and_kotlin/common/람다표현식이란.md)
+- [Kotlin Sequence란?](./java_and_kotlin/kotlin/kotlin_sequence란.md)
 
 ### Redis
 
