@@ -20,6 +20,7 @@
 - [람다표현식이란](./java_and_kotlin/common/람다표현식이란.md)
 - [Kotlin Sequence란?](./java_and_kotlin/kotlin/kotlin_sequence란.md)
 - [JAVA STREAM BASIC](./java_and_kotlin/java/stream_basic.md)
+- [Kotlin Builder Pattern](./java_and_kotlin/kotlin/kotlin_builder_pattern.md)
 
 ### Redis
 
