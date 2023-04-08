@@ -9,6 +9,7 @@
 - [스프링 스케줄러 사용법](./spring/스프링_스케줄러_사용법.md)
 - [Feature Flag 간단 사용](./spring/Feature_Flag_간단_사용.md)
 - [Local Cache 사용법](./spring/local_cache_사용법.md)
+- [server shutdown](./spring/server_shutdown.md)
 
 
 ### Java and Kotlin
