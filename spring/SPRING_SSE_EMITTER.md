@@ -460,3 +460,4 @@ data:{"id":3,"message":"hello world","createdAt":"2023-04-16T23:46:15.989"}
 # Reference
 
 - https://www.baeldung.com/spring-server-sent-events
+- https://github.com/DongGeon0908/spring-sse
