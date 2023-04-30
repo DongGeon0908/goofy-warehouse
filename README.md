@@ -11,10 +11,10 @@
 - [Local Cache 사용법](./spring/local_cache_사용법.md)
 - [server shutdown ](./spring/server_shutdown.md)
 - [스프링 Server Side Event란?](./spring/SPRING_SSE_EMITTER.md)
-- [쉽게 만드는 바코드 생성기(원래는 QR Code만 할려고 했는데..)](./spring/barcode_generator.md)
 
 ### Java and Kotlin
 
+- [쉽게 만드는 바코드 생성기(원래는 QR Code만 할려고 했는데..)](./java_and_kotlin/kotlin/barcode_generator.md)
 - [현재 애플리케이션에 존재하는 스레드 정보 조회](./java_and_kotlin/common/현재_애플리케이션에_존재하는_스레드_정보_조회.md)
 - [ThreadLocal이란](./java_and_kotlin/common/ThreadLocal이란.md)
 - [동작 파라미터화란?](./java_and_kotlin/common/동작_파라미터화란.md)
