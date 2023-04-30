@@ -11,7 +11,7 @@
 - [Local Cache 사용법](./spring/local_cache_사용법.md)
 - [server shutdown ](./spring/server_shutdown.md)
 - [스프링 Server Side Event란?](./spring/SPRING_SSE_EMITTER.md)
-
+- [쉽게 만드는 바코드 생성기(원래는 QR Code만 할려고 했는데..)](./spring/barcode_generator.md)
 
 ### Java and Kotlin
 
