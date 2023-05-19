@@ -40,6 +40,9 @@
 
 - [OLTP AND OLAP](./data/oltp_and_olap.md)
 
+### Infra
+- [Deployment](./infra/deployment.md)
+
 
 ### Git
 
