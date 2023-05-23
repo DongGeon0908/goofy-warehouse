@@ -159,6 +159,7 @@
 - [챗봇 시스템](https://github.com/DongGeon0908/Hanshin_AI_CHATBOT)
 - [POS 서비스](https://github.com/DongGeon0908/SwingProject)
 - [쓰레기통](https://github.com/DongGeon0908/CleanGarbage)
+- [Search Trend Api](https://github.com/cloud-club/search-trend-api)
 
 ### Team Project
 
@@ -173,6 +174,7 @@
 - [SE.LAB](https://github.com/selab-hs)
 - [RDR](https://github.com/Run-Dev-Run)
 - [DPM](https://github.com/depromeet)
+- [Cloud Club](https://github.com/cloud-club)
 - [Programmers-backend](https://github.com/prgrms-be-devcourse)
 - [Programmers-web](https://github.com/prgrms-web-devcourse)
 - [가늘고 길게](https://github.com/thinandlong)
