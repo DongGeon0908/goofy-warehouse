@@ -41,6 +41,7 @@
 - [OLTP AND OLAP](./data/oltp_and_olap.md)
 
 ### Infra
+
 - [Deployment](./infra/deployment.md)
 - [Tomcat and Netty](./infra/tomcat_and_netty.md)
 
