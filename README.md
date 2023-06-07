@@ -57,7 +57,8 @@
 - [시멘틱 버저닝이란 무엇인가?](./etc/시멘틱_버저닝이란_무엇인가.md)
 - [Small File Problem](./etc/small_file_problem.md)
 - [크로스_사이트_스크립팅](./etc/크로스_사이트_스크립팅.md)
-- [Zero Copy](/etc/zero-copy.md)
+- [Zero Copy](./etc/zero-copy.md)
+- [On-Demand란](./etc/On-Demand란.md)
 
 ### Conference
 
