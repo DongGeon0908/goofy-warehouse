@@ -11,6 +11,7 @@
 - [Local Cache 사용법](./spring/local_cache_사용법.md)
 - [server shutdown ](./spring/server_shutdown.md)
 - [스프링 Server Side Event란?](./spring/SPRING_SSE_EMITTER.md)
+- [Spring Properties Resolve Order](spring/resolve_properties_order.md)
 
 ### Java and Kotlin
 
