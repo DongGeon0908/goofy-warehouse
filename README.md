@@ -28,6 +28,8 @@
 - [Country Checker](./java_and_kotlin/kotlin/CountryChecker.kt)
 - [jwt를_사용하자](./java_and_kotlin/common/jwt를_사용하자.md)
 - [ionShutdownHook이란?](./java_and_kotlin/java/ionShutdownHook이란.md)
+- [java-cafe-coroutine-2023](https://github.com/DongGeon0908/java-cafe-coroutine-2023)
+- [coroutine](https://github.com/DongGeon0908/coroutine)
 
 ### Redis
 
@@ -123,7 +125,6 @@
 - [Kotlin 학습-1](https://github.com/DongGeon0908/kotlin-in-action)
 - [Kotlin 학습-2](https://github.com/DongGeon0908/kotlin-basic)
 - [자바 학습](https://github.com/DongGeon0908/Java)
-- [java-cafe-coroutine-2023](https://github.com/DongGeon0908/java-cafe-coroutine-2023)
 
 ### DB
 
