@@ -44,6 +44,10 @@
 
 - [OLTP AND OLAP](./data/oltp_and_olap.md)
 
+### Database
+
+- [covering index](./database/covering_index.md)
+
 ### Infra
 
 - [Deployment](./infra/deployment.md)
