@@ -75,7 +75,19 @@ $$
 
 ### 비교
 
+**커버링 인덱스를 태운 경우**
+
+```
+explain select dummy_id_1 from test_1 where dummy_id_1 = 1;
+```
+
 ![Screenshot 2023-12-12 at 21 48 23](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/be0dd1d3-c77c-481d-86e2-f8e662c7788f)
+
+**일반 조회**
+
+```
+explain select * from test_1 where dummy_id_1 = 1;
+```
 
 ![Screenshot 2023-12-12 at 21 47 47](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/0dfbbc05-a6d9-4f11-b304-ad9778ffc2c9)
 
