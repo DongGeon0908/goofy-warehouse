@@ -73,4 +73,9 @@ $$
 ```
 
 
+### 비교
+
+![Screenshot 2023-12-12 at 21 48 23](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/be0dd1d3-c77c-481d-86e2-f8e662c7788f)
+
+![Screenshot 2023-12-12 at 21 47 47](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/0dfbbc05-a6d9-4f11-b304-ad9778ffc2c9)
 
