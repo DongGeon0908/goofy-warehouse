@@ -1,4 +1,4 @@
-# 나락의 대명사 극락코딩
+# 극락코딩 보관함
 
 > 공부하면서 내가 다시 보기 위해 한땀 한땀 정리
 
@@ -168,6 +168,7 @@
 
 ### Team Project
 
+- [OKSUSU-SUSU-API](https://github.com/YAPP-Github/oksusu-susu-api)
 - [DPM-11-antoon-api](https://github.com/depromeet/antoon-api)
 - [DPM-12-toks-api](https://github.com/depromeet/toks-api)
 - [oing](https://github.com/o-ing)
@@ -181,6 +182,7 @@
 - [SE.LAB](https://github.com/selab-hs)
 - [RDR](https://github.com/Run-Dev-Run)
 - [DPM](https://github.com/depromeet)
+- [YAPP](https://github.com/YAPP-Github)
 - [Cloud Club](https://github.com/cloud-club)
 - [Programmers-backend](https://github.com/prgrms-be-devcourse)
 - [Programmers-web](https://github.com/prgrms-web-devcourse)
