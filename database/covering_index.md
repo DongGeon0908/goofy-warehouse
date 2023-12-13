@@ -120,7 +120,8 @@ explain select * from test_1 where dummy_id_1 = 1;
 
 **커버링 인덱스를 태운 경우**
 
-![Screenshot 2023-12-13 at 12 21 11](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/da3da329-3429-4e8e-8dec-0c5cb46248a6)
+![Screenshot 2023-12-13 at 12 21 37](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/6694dde5-ac13-4abd-892d-b7661c5e65f6)
+
 
 **일반 인덱스 조회**
 
