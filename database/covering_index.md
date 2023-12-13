@@ -106,11 +106,23 @@ explain select dummy_id_1 from test_1 where dummy_id_1 = 1;
 
 ![Screenshot 2023-12-12 at 21 48 23](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/be0dd1d3-c77c-481d-86e2-f8e662c7788f)
 
-**일반 조회**
+**일반 인덱스 조회**
 
 ```
 explain select * from test_1 where dummy_id_1 = 1;
 ```
 
 ![Screenshot 2023-12-12 at 21 47 47](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/0dfbbc05-a6d9-4f11-b304-ad9778ffc2c9)
+
+### 조회 시간 차이
+
+현재 테스트 케이스에서는 2배정도의 차이가 있는데, 데이터의 구조나 조회 조건 등이 변경되면 더 큰 차이가 발생할 수 있음.
+
+**커버링 인덱스를 태운 경우**
+
+![Screenshot 2023-12-13 at 12 21 11](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/da3da329-3429-4e8e-8dec-0c5cb46248a6)
+
+**일반 인덱스 조회**
+
+![Screenshot 2023-12-13 at 12 21 11](https://github.com/DongGeon0908/goofy-warehouse/assets/50691225/efa31d36-6425-43e2-8b35-595b3e63b3c2)
 
